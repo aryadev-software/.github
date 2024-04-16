@@ -1,0 +1,9 @@
+#+title: Aryadev's Software Organisation
+#+author: Aryadev Chavali
+#+date: 2024-04-16
+
+When I write projects that go beyond one repository I'll put them here
+to make it easier to group.  (I just wanted an excuse to try this
+feature of out)
+
+There's really not much else to it.
